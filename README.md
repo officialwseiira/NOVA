@@ -1,6 +1,4 @@
-TR TR TR TR TR TR TR TR TR TR TR TR TR TR TR TR TR TR TR TR TR TR TR TR 
-TR TR TR TR TR TR TR TR TR TR TR TR TR TR TR TR TR TR TR TR TR TR TR TR 
-TR TR TR TR TR TR TR TR TR TR TR TR TR TR TR TR TR TR TR TR TR TR TR TR 
+TR
 ///////////////////////////////////////
 ///////////////////////////////////////
 ///////////////////////////////////////
@@ -10,10 +8,7 @@ Kullanımı ücretsizdir, kullanan arkadaşlarımdan tek ricam en alta Instagram
 Kendi yaptığım NOVA şablonları hem kendi kişisel kullanımınız için hem de benim projelerimi tanıtmam içindir.
 
 
-
-EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN
-EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN
-EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN EN
+EN
 ///////////////////////////////////////
 ///////////////////////////////////////
 ///////////////////////////////////////
